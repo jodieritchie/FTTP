@@ -1,4 +1,4 @@
-**FTTP 
+#FTTP 
 
 Developed bot to automate trading securities in market simulation using Java
 
