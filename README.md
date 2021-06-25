@@ -1,4 +1,4 @@
-# FTTP
+# Jane Street First-Year Trading & Technology Program
 
 Developed bot to automate trading securities in market simulation using Java
 
